@@ -1,2 +1,1 @@
-# Calculator
- Calculator project made with Python
+The current Python project is a simple calculator with four basic functions (sum, subtract, multiply, and divide) that can be chosen by the user using the numbers 1, 2, 3, and 4. After making a selection, the user enters the two values they want to operate on, and the result is displayed quickly and easily once the values are input.
